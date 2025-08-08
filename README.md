@@ -1,4 +1,4 @@
-# 🗂️ Artifacts Availability
+# 🗂️ Artifact Availability
 
 
 This repository provides the main artifacts related to our study on test smell co-occurrence and refactoring strategies. The goal is to ensure transparency and reproducibility of the research process.
