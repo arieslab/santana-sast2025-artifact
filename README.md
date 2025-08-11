@@ -31,30 +31,30 @@ We provide the following information for each system:
 - Copy of the project (as cloned at the time of the study)
 - A link to the original repository directory (for reference and reproducibility)
 
-| N   | Project name | Commit | Original repository| 
-| --- | ---          |---     |---                 |
-| 1 | Accumulo | 47ac68d | https://github.com/apache/accumulo|
-| 2 | AMDP | e8c1a62 | https://github.com/apache/maven-dependency-plugin |
-| 3 | ASC | bc5867d |  https://github.com/adobe/asset-share-commons|
-| 4 | Bookkeeper| f233320 | https://github.com/apache/bookkeeper |
-| 5 | Cassandra | 6b13426 | https://github.com/apache/cassandra |
-| 6 | Cayenne | 7e15607 | https://github.com/apache/cayenne |
-| 7 | Cxf | 6b27aec |https://github.com/apache/cxf |
-| 8 | DBeam | a8d3bc5 | https://github.com/spotify/dbeam |
-| 9 | dble | e3a31b0 | https://github.com/actiontech/dble |
-| 10 | etcd-java | 1fde9c0 | https://github.com/IBM/etcd-java |
-| 11 | fb-jb-sdk | be6bc7b | https://github.com/facebook/facebook-java-business-sdk |
-| 12 | gctoolkit | 4342691 | https://github.com/microsoft/gctoolkit |
-| 13 | Guice | b0e1d0f | https://github.com/google/guice |
-| 14 | Hive | 5160d3a | https://github.com/apache/hive |
-| 15 | jcef | a414114 | https://github.com/JetBrains/jcef |
-| 16 | jfnr | c9dbfee | https://github.com/cisco/jfnr |
-| 17 | Joda Time | 290a451 | https://github.com/JodaOrg/joda-time
-| 18 | JSqlParser | e47132a | https://github.com/discord/JSqlParser |
-| 19 | kapua | 56adf32 | https://github.com/eclipse/kapua |
-| 20 | Neptune Export | 632e0de | https://github.com/aws/neptune-export |
-| 21 | Wicket | 48b1c3c | https://github.com/apache/wicket |
-| 22 | Zookeeper | e454e8c | https://github.com/apache/zookeeper |
+| N   | Project name | Commit | Original repository|  Star | Contributors|
+| --- | ---          |---     |---                 |---    |---          |
+| 1 | Accumulo | 47ac68d | https://github.com/apache/accumulo| 1.1k | 163 |
+| 2 | AMDP | e8c1a62 | https://github.com/apache/maven-dependency-plugin | 163 | 77|
+| 3 | ASC | bc5867d |  https://github.com/adobe/asset-share-commons| 91 | 41 |
+| 4 | Bookkeeper| f233320 | https://github.com/apache/bookkeeper | 2k | 207 |
+| 5 | Cassandra | 6b13426 | https://github.com/apache/cassandra | 9.3k| 467 |
+| 6 | Cayenne | 7e15607 | https://github.com/apache/cayenne | 333 | 46 |
+| 7 | Cxf | 6b27aec | https://github.com/apache/cxf | 887 | 239 |
+| 8 | DBeam | a8d3bc5 | https://github.com/spotify/dbeam | 195 | 19 |
+| 9 | dble | e3a31b0 | https://github.com/actiontech/dble |  1.1k | 30 | 
+| 10 | etcd-java | 1fde9c0 | https://github.com/IBM/etcd-java | 160 | 9 |
+| 11 | fb-jb-sdk | be6bc7b | https://github.com/facebook/facebook-java-business-sdk | 432 | 129 |
+| 12 | gctoolkit | 4342691 | https://github.com/microsoft/gctoolkit |  1.3k | 33 | 
+| 13 | Guice | b0e1d0f | https://github.com/google/guice | 12.7k | 78 |
+| 14 | Hive | 5160d3a | https://github.com/apache/hive | 5.8k | 414|
+| 15 | jcef | a414114 | https://github.com/JetBrains/jcef | 305 | 32 |
+| 16 | jfnr | c9dbfee | https://github.com/cisco/jfnr | 5 | 2 |
+| 17 | Joda Time | 290a451 | https://github.com/JodaOrg/joda-time | 5k | 92
+| 18 | JSqlParser | e47132a | https://github.com/discord/JSqlParser | 6 | 64 |
+| 19 | kapua | 56adf32 | https://github.com/eclipse/kapua | 238 | 35 |
+| 20 | Neptune Export | 632e0de | https://github.com/aws/neptune-export | 14 | 11 |
+| 21 | Wicket | 48b1c3c | https://github.com/apache/wicket | 768 | 117 |
+| 22 | Zookeeper | e454e8c | https://github.com/apache/zookeeper | 12.6k | 246 |
 
 
 -------------------
